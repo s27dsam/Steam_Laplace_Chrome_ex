@@ -1,0 +1,30 @@
+body {
+  font-family: 'Tahoma', sans-serif;
+  background-color: #171a21;
+  color: #c7d5e0;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px; /* Adjust the radius value as desired */
+  overflow: hidden; /* Prevent content from extending beyond the rounded corners */
+
+}
+
+button {
+  background-color: #66c0f4;
+  color: #171a21;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1b2838;
+}
+
+#result {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #c7d5e0;
+}
