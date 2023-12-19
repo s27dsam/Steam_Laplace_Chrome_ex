@@ -6,7 +6,6 @@ body {
   padding: 20px;
   border-radius: 10px; /* Adjust the radius value as desired */
   overflow: hidden; /* Prevent content from extending beyond the rounded corners */
-
 }
 
 button {
@@ -27,4 +26,18 @@ button:hover {
   margin-top: 20px;
   font-size: 18px;
   color: #c7d5e0;
+}
+
+#iconLink {
+  position: absolute;
+  top: 1px; /* Adjust the top position as needed */
+  right: 1px; /* Adjust the right position as needed */
+  display: block;
+  width: 20px; /* Adjust the width as needed */
+  height: auto;
+}
+
+#iconLink img {
+  width: 100%;
+  height: auto;
 }
