@@ -40,7 +40,7 @@ We welcome contributions to improve the extension! Feel free to fork the reposit
 
 ### Credits
 
-* Developed by [Your Name/Team Name]
+* Developed by Samuel Wallace
 * Powered by Chrome Extensions APIs
 
 ### License
