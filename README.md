@@ -26,7 +26,10 @@ The extension calculates the Laplace percentage using the following formula:
 ```
 Laplace Percentage = (Positive Reviews + 1) / (Total Reviews + 2) * 100
 ```
-![Screenshot 2023-12-20 at 12.59.57.png](..%2FScreenshot%202023-12-20%20at%2012.59.57.png)
+
+![Alt Text](./Screenshot%202023-12-20%20at%2012.59.57.png)
+
+
 This formula reflects the principle of equal uncertainty, assuming no prior knowledge about your specific preferences. Higher percentages suggest a greater likelihood of enjoying the game based on the overall community's experience.
 
 ### Disclaimer
